@@ -1,6 +1,6 @@
  # Photographer portfolio
 A portfolio for a photographer where he can showcase his works.
-[standout-clothing-store.herokuapp.com](https://xander-photographer.netlify.app/)
+[xander-photographer.netlify.app](https://xander-photographer.netlify.app/)
 
 
 📃 Languages used
